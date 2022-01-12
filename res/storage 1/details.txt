@@ -5,4 +5,4 @@ ASUS FX 1TB BLACK RGB EXTERNAL HARD DRIVE (EHD-A1T)             6,600.00
 CORSAIR MP600 CORE 2TB M.2 NVME GEN4 INTERNAL SSD               24,200.00
 CRUCIAL MX500 1000GB                                            8,350.00
 CRUCIAL MX500 500GB                                             4,870.00
-CRUCIAL P2 250GB M.2 NVMe                                       3,280.00
+CRUCIAL P2 250GB M.2 NVMe SSD                                   3,280.00
