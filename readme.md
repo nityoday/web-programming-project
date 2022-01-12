@@ -1,6 +1,6 @@
-PC Building website\
+PC Building website
 
-Features/Functionality:\
+Features/Functionality:
 
 Home Page:
 	  Selection: Processor, Motherboard, Ram, Storage 1,2, GPU, Monitor, (total) [form at end to deliver]\
@@ -21,14 +21,14 @@ Tasks:
 Text File:
   Model No - Price
 
-Photo name: model no\
+Photo name: model no
 
 
-HTML, CSS, JS\
+HTML, CSS, JS
 
-UI\
+UI
 
-Nav Bar (Logo and links)\
+Nav Bar (Logo and links)
   Content
   Footer
 
