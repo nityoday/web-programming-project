@@ -1,4 +1,4 @@
-Ryzen 5 5600x - 30000
+Ryzen 5 5600x                                                                   30000
 AMD-Ryzen-9-3900X-3rd-Gen-Desktop-Processor -                                   42500
 AMD-Ryzen-7-5800X-Desktop-Processor -                                           35000
 Intel-10th-Gen-Comet-Lake-Core-i5-10400F -                                      16000
