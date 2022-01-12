@@ -1,1 +1,11 @@
-cpu 10700 h [example] - 9900 Rs
+Ryzen 5 5600x - 30000
+AMD-Ryzen-9-3900X-3rd-Gen-Desktop-Processor - 42500
+AMD-Ryzen-7-5800X-Desktop-Processor - 35000
+Intel-10th-Gen-Comet-Lake-Core-i5-10400F - 16000
+AMD-Ryzen-9-5900X-Desktop-Processor - 45,799
+Intel-Core-i7-9900K-Coffee-Lake-8-Core-Processor - 29200
+Intel-10th-Gen-Comet-Lake-Core-i9-10850K-10-Core-Desktop-Processor -35200
+AMD-Ryzen-9-5950X-Desktop-Processor - 64000
+Intel-10th-Gen-Comet-Lake-Core-i7-10700K-Processor-16M-Cache-up-to-5.40-GHz - 30000
+Intel-Core-i7-11700K-11th-Generation-Rocket-Lake-Processor - 32000
+AMD-3rd-Gen-Ryzen-Threadripper-3960X-Desktop-Processor - 120000
