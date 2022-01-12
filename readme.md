@@ -28,7 +28,7 @@ HTML, CSS, JS
 
 UI
 
-Nav Bar (Logo and links)
+Nav Bar (Logo and links)\
   Content\
-  Footer\
+  Footer
 
