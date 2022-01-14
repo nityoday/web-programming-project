@@ -5,14 +5,20 @@
   
   }
  
-  
+  body {
+    background:url('res/img/background_build_your_own_pc.jfif') center no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    }
+
   .container {
     height: 100vh;
     width: 100%;
-    background: url('res/img/background_build_your_own_pc.jfif');
-    background-position: center;
+    background-position: center;  
     background-size: cover;
-    background-clip: border-box;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   background-clip: border-box;
     position: relative;
   }
 
@@ -121,7 +127,6 @@ tr:hover {background-color: rgb(255, 255, 255);}
   color: white;
   text-align: right;
 }
-  
 
 
   
