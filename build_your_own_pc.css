@@ -2,8 +2,9 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    overflow: hidden;
+  
   }
+ 
   
   .container {
     height: 100vh;
@@ -51,10 +52,8 @@
   }
   
   .button {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 255, 255, 0);
     color: red;
-      
-    
     border-radius: 1px 2px;
     font-size: 1.2rem;
     position: relative;
@@ -101,6 +100,27 @@
       font-size: 2rem;
     }
   }
+  table {
+    width: 100%;
+  }
+ td{
+   text-align: center;
+ }
+ th, td {
+  padding: 15px;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover {background-color: rgb(255, 255, 255);}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 5%;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: right;
+}
   
 
 
