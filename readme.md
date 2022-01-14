@@ -40,3 +40,7 @@ Need Content for\
 Pending Frontend\
 1) Prebuilt\
 2) About US\
+
+
+New page\
+1) Form for delivery 
