@@ -22,7 +22,9 @@
     position: relative;
   }
 
-  
+  .inline{
+    display: inline;
+  }
   .navbar {
     display: flex;
     justify-content: space-between;
@@ -115,18 +117,68 @@
  th, td {
   padding: 15px;
   border-bottom: 1px solid #ddd;
-}
-tr:hover {background-color: rgb(255, 255, 255);}
+  }
+  tr:hover {background-color: rgb(255, 255, 255);}
 
-.footer {
+
+
+.card {
+  margin: 30px auto;
+  width: 300px;
+  height: 300px;
+  border-radius: 40px;
+  box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  cursor: pointer;
+  transition: 0.4s;
   position: fixed;
-  left: 0;
-  bottom: 5%;
+  right: 1%;
+  bottom: 0;
   width: 100%;
-  background-color: red;
-  color: white;
-  text-align: right;
 }
 
+.card .card_image {
+  width: inherit;
+  height: inherit;
+  border-radius: 40px;
+  background-color: rgba(225, 236, 18, 0.7);
+}
 
-  
+.card .card_title {
+  text-align: center;
+  border-radius: 0px 0px 40px 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: -80px;
+  height: 40px;
+}
+
+.card:hover {
+  transform: scale(0.9, 0.9);
+  box-shadow: 5px 5px 30px 15px rgba(0,0,0,0.25), 
+    -5px -5px 30px 15px rgba(0,0,0,0.22);
+}
+
+.title-black {
+  color: black;
+}
+
+@media all and (max-width: 500px) {
+  .card-list {
+    flex-direction: column;
+  }
+}
+
+.card {
+  margin: 30px auto;
+  width: 400px;
+  height: 100px;
+  border-radius: 40px;
+  background-color: (rgb(8, 44, 190));
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.22);
+  transition: 1.0s;
+}
