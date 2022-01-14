@@ -1,1 +1,12 @@
-cpu 10700 h [example] - 9900 Rs
+GALAX-GeForce-GTX-1660-Super-1-Click-OC-6GB-Graphic-Card - 53000
+GALAX-GeForce-RTX-3060-1-Click-OC-12GB-GDDR6-Graphic-Card - 58999
+GALAX-GeForce-RTX-3060-Ti-1-Click-OC-LHR-8GB-Graphic-Card - 73000
+GALAX-GeForce-RTX-3070-1-Click-OC-LHR - 84500
+GALAX-GeForce-RTX-3060-Ti-1-Click-OC-LHR-8GB-Graphic-Card- 89599
+GALAX-GeForce-RTX-3070-Ti-1-Click-OC-8GB-Graphics-Card- 99999
+ASUS-ROG-STRIX-GAMING-Radeon-RX-6700-XT-OC-12GB-Graphics-Card- 92999
+Asrock-AMD-Radeon-RX-6900-XT-Phantom-Gaming-D-16G-OC-Graphic-Card - 146999
+MSI-GeForce-RTX-3080-GAMING-Z-TRIO-10G-LHR-10GB-GDDR6X-Graphic-Card - 145500
+MSI-GeForce-RTX-3090-GAMING-X-TRIO-24G-24GB-GDDR6X-Graphic-Card - 259999
+MSI-GeForce-RTX-3080-Ti-VENTUS-3X-12G-OC-Graphic-Card - 166999
+Gigabyte-Aorus-RTX-3090-Xtreme-Waterforce-WB-24GB-Graphics-Card- 281999
