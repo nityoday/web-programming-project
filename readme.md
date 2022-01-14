@@ -39,8 +39,12 @@ Need Content for\
 
 Pending Frontend\
 1) Prebuilt\
-2) About US\
+2) About US
 
 
 New page\
 1) Form for delivery 
+
+To be done (optional)\
+Transparent Images\
+Update Logo
