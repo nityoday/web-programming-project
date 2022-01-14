@@ -4,9 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="build_your_own_pc.css">
     <title>Build Your Own PC</title>
 </head>
+
 <body>
+    <div class="container">
+    <div class="navbar">
+        <img src="res/img/logo.png" alt="Logo Image" width="180px" height="180px">
+         <ul>
+           <li> <a href="index.html">HOME</a></li>
+           <li> <a href="build_your_own_pc.html">BUILD YOUR OWN PC</a> </li>
+           <li> <a href="http:#">PREBUILT</a> </li>
+           <li> <a href="http:#">GUIDE</a></li>
+           <li> <a href="http:#">ABOUT US</a></li>
+         </ul>
+    </div>
+       <div class="content">
+        <details>
+            <summary>Select CPU</summary>
     <table>
         <tr>
             <th>Image</th>
@@ -16,12 +32,13 @@
         </tr>
         <tr>
             <td><img src="res/cpu/AMD-3rd-Gen-Ryzen-Threadripper-3960X-Desktop-Processor.jpg" width="100px" height="100px" alt="Imgae"></td>
-            <td>AMD-3rd-Gen-Ryzen-Threadripper-3960X-Desktop-Processor</td>
+            <td>Ryzen Threadripper 3960X</td>
             <td>30,000</td>
-            <td><button>ORDER NOW</button></td>
+            <td><button class="button" onclick=alert("Clicked")>ADD</button></td>
         </tr>
-
-
     </table>
+</details>
+</div>
+</div>
 </body>
 </html>
