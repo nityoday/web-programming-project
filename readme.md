@@ -32,3 +32,11 @@ Nav Bar (Logo and links)\
   Content\
   Footer
 
+Need Content for\
+1) Prebuilt\ (cards with specs in bullet form)
+2) Text on Guides (How to select CPU, GPU, etc.. )\
+3) About us
+
+Pending Frontend\
+1) Prebuilt\
+2) About US\
