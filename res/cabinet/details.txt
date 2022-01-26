@@ -1,1 +1,0 @@
-cpu 10700 h [example] - 9900 Rs
