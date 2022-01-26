@@ -48,3 +48,26 @@ New page\
 To be done (optional)\
 Transparent Images\
 Update Logo
+
+
+Pending Tasks:
+1) Create form				//TBD				
+2) Values add
+	CPU	AVT
+	GPU	AVT
+	Monitor Rahul
+	Motherboard Kurush
+	Ram Kurush
+	Storage 1 Nityoday
+	Storage 2 Nityoday
+3) Prebuilt (Content) [Adityavardhan]
+	Photo
+	Specs
+	Price
+			(UI): Nityoday
+4) Guide Content
+	(How to select GPU, CPU, Monitor, Ram, Storage) 2-3 lines of text			Kurush
+	UI [Nityoday]
+5) About US 
+	UI [Photo, SAP ID, Name, Roll No, Class] 			Rahul 
+6) Logo													AVT
