@@ -1,0 +1,48 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    overflow: hidden;
+  }
+  
+  .container {
+    height: 100vh;
+    width: 100%;
+    background: url('../res/img/background_prebuilt.jpg');
+    background-position: center;
+    background-size: cover;
+    background-clip: border-box;
+    position: relative;
+  }
+
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+    width: 90%;
+    color: #fff;
+    padding: 10px 0;
+  }
+
+  ul li {
+    list-style-type: none;
+    margin: 0 1rem;
+    display: inline-block;
+  }
+  
+  ul li a {
+    text-decoration: none;
+    font-weight: 600;
+    color: #fff;
+    position: relative;
+  }
+  
+  .content {
+    padding: 0 4rem;
+    position: relative;
+  }
+  
