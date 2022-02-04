@@ -11,7 +11,7 @@
 }
 
 .header{
-    padding-top: 60px;
+    padding-top: 2px;
     color: #444;
     font-size: 20px;
     margin: auto;
@@ -34,13 +34,7 @@
     box-sizing: border-box;
 }
 .teams:hover{
-    background: #ddd;
-    transition-delay: 00.3s;
-    border: 12px, rgb(173, 173, 173);
-    border-radius: 20px;
-    border-style: hidden double hidden;
-    
-    transform: scale(1.1)
+    transform: scale(1.2)
 }
 
 .teams img{
@@ -53,7 +47,6 @@
 }
 
 .teams img:hover{
-    transition-delay: 0.3s;
     border-radius: 50%;
     border-width: 5px;
     
