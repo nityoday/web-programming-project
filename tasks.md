@@ -79,8 +79,8 @@ Adityavardhan Tiwari
 -New logo				[TBD]
 
 Kurush Desai
-- Values add motherboard, ram	[pending]
-- Content for Guide				[pending]
+- Values add motherboard, ram	[done]
+- Content for Guide				[done]
 
 Rahul Noolu
 -Values add Monitor				[pending]
