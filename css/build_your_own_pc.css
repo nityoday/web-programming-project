@@ -6,7 +6,7 @@
   }
  
   body {
-    background:url('res/img/background_build_your_own_pc.jfif') center no-repeat;
+    background:url('../res/img/background_build_your_own_pc.jfif') center no-repeat;
     background-size: cover;
     background-attachment:fixed;
     }

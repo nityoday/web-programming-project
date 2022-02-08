@@ -1,0 +1,53 @@
+1. CPU
+Choosing the best CPU matters a lot, whether you’re upgrading your existing system or building a new PC. 
+Higher clock speeds and core counts can make a major difference in performance, providing a snappier system, smoother gameplay and faster completion of intensive tasks such as video editing and transcoding.
+Plus, the CPU you choose will also dictate your motherboard options, as each processor only works with a specific CPU socket and set of chipsets.
+
+Also, like most aspects of consumer tech, you'll have to decide to buy the best processor that's available right now, or wait to see what next-generation chips bring to the table.
+AMD's Ryzen 5000 CPUs are impressive, finally generally overtaking competing Intel CPUs in single- and multi-core performance. 
+But due to a combination of high demand, limited capacity at TSMC's chip fabs and the ongoing pandemic, AMD's latest CPUs have been very hard to find in stock at or near their MSRPs since launch. 
+
+Meanwhile, Intel is about to finally move away from a Skylake-based architecture, with Rocket Lake-S. 
+Intel's new chips promise solid single-core performance gains of their own, as well as a sift to a platform that finally supports PCI 4.0 -- a feature AMD rolled out in its Ryzen chips nearly two years ago.
+
+2. GPU
+An underpowered GPU will impact performance and lead to a lackluster visual experience for gaming, photo and video editing, and other visual tasks. 
+If you don’t know where to start, our graphics card buying guide will help you make the right decisions when it comes to choosing your next graphics card and taking control of the graphics performance on your PC.
+Along with a computer's central processing unit (CPU), the graphics processing unit (GPU) has the most significant effect on your computer’s performance. 
+This is because the GPU processes data from the CPU and renders it visually on your display. 
+However, it can be confusing to know all the details that come with knowing when to upgrade your GPU, and selecting the right graphics card for your needs.
+
+3. MONITER
+When you think about purchasing a computer monitor, you are considering an important piece of equipment. 
+If you spend a lot of time on your computer, this means that you may spend numerous hours per day looking at this item. 
+You should, therefore, be sure to choose a computer monitor that you really like. 
+Some things you should consider are screen size, resolution, and adjustability.
+At one time, computer monitors offered limited movement but this has changed. 
+You can get a monitor that moves vertically, horizontally, and tilts. 
+If you are active while working, you may want to consider investing in a computer monitor with good adjustability. 
+This also can be a wise consideration if you share your computer with others so that everyone can place the screen in a position that is comfortable. 
+
+4. Motherboard
+A motherboard is a printed circuit board (PCB) that creates a backbone that allows various components to communicate and provides services like the central processing unit (CPU), a graphics processor (GPU), memory as well as storage.
+
+Most computers manufactured today use motherboards to integrate everything, such as smartphones, tablets, laptops, and desktop computers. 
+The motherboard is the most important component of a PC. Without it, no other function can work. 
+It determines the upgrades you can make in the future.
+
+Speaking of choosing a motherboard, you need to consider some aspects. Motherboard form factors,expansion options,GPU,CPU,RAM,Storage,Connectivity,Budget.
+
+5. RAM
+Modern RAM is DDR SDRAM, and the home computer has gone through a total of four versions of it over the past two decades:
+ DDR, DDR2, DDR3 and DDR4.
+
+The vast majority of modern machines use the fourth-generation DDR4 that reached mass-market adoption around 2016. 
+Meanwhile, DDR3 memory and DDR3-compatible motherboards are still available, but DDR3 is on the verge of being completely obsolete.
+
+Without delving deep into the technicalities, let’s just say that DDR4 is significantly faster than its predecessor and that it is an improvement in virtually every way.
+
+A valuable thing to note is that DDR4 isn’t backward compatible with older motherboards and CPUs, nor is DDR3 forward compatible with newer ones. 
+Therefore, you can’t install DDR4 on an older DDR3-compatible motherboard, nor can you install DDR3 on a newer DDR4-compatible motherboard
+
+
+6. Storage 1&2
+Depends on the Requirement
