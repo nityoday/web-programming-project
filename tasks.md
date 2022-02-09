@@ -83,7 +83,7 @@ Kurush Desai
 - Content for Guide				[done]
 
 Rahul Noolu
--Values add Monitor				[pending]
+-Values add Monitor				[done]
 -About Us UI					[done]
 
 Nityoday Tekchandani
