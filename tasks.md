@@ -96,3 +96,7 @@ Nityoday Tekchandani
 Try:
 https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_slide_down
 https://www.w3schools.com/jquery/jquery_slide.asp
+
+
+Fix background scroll
+https://stackoverflow.com/questions/53422780/css-background-image-not-fixed
