@@ -43,7 +43,7 @@ Pending Frontend
 
 
 New page
-1) Form for delivery 
+1) Form page for delivery 
 
 To be done (optional)
 Transparent Images
@@ -72,10 +72,11 @@ Pending Tasks:
 	UI [Photo, SAP ID, Name, Roll No, Class] 			Rahul 
 6) Logo													AVT
 
+
 Tasks [Feb/05/22]
 Adityavardhan Tiwari
 -Values add CPU,GPU 	[done]
--Content for Prebuilt 	[pending]
+-Content for Prebuilt 	[done]
 -New logo				[TBD]
 
 Kurush Desai
@@ -90,3 +91,8 @@ Nityoday Tekchandani
 -Values add Storage 1,2			[done]
 -Prebuilt UI					[pending: awaiting content]
 -Guide UI						[pending: awaiting content]
+
+
+Try:
+https://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_slide_down
+https://www.w3schools.com/jquery/jquery_slide.asp
