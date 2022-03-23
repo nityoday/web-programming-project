@@ -6,3 +6,11 @@
        document.getElementById("result").innerHTML = result;
        document.getElementById("inr").style.display = "inline";
    }
+
+   /*
+   window.addEventListener("load", afterLoaded,false);
+   function afterLoaded(){
+    document.getElementById("ShowTotal").innerHTML = result;     
+   }
+   */
+   
