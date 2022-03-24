@@ -66,8 +66,7 @@ if ($conn-> connect_error){
             <input type="text" placeholder="UPI ID" name="upi" />
             <br><br>
             <br>
-            <input type="submit" name="submit">
-            <a id="submit" href="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" name="submit" >Order Now</a>
+            <input id="submit" type="submit" name="submit">
             </div>
         </form>
     </div>
