@@ -14,8 +14,6 @@
     background-size: cover;
     background-clip: border-box;
     position: relative;
-    overflow: scroll;
-
   }
   
   .navbar {
