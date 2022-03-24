@@ -42,7 +42,6 @@ if ($conn-> connect_error){
           <ul>
             <li> <a href="index.html">HOME</a></li>
             <li> <a href="build_your_own_pc.html">BUILD YOUR OWN PC</a> </li>
-            <li> <a href="prebuilt.html">PREBUILT</a></li>
             <li> <a href="guide.html">GUIDE</a></li>
             <li> <a href="about_us.html">ABOUT US</a></li>
           </ul>
