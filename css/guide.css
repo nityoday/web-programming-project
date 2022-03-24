@@ -17,7 +17,6 @@
     overflow: scroll;
 
   }
-
   
   .navbar {
     display: flex;
@@ -45,71 +44,5 @@
   .content {
     padding: 0 4rem;
     position: relative;
-  }
-  
-  .info{
-    font-weight: 300;
-    color: #fff;
-    
-  }
-  .CPU{
-    text-align: center;
-    margin: 20px;
-    padding: 70px;
-    background-color: blueviolet;
-    border-radius: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    transition: 0.3s;
-  }
-  .CPU:hover{
-    transform: scale(1.05)
-  }
-  .GPU{
-    text-align: center;
-    margin: 20px;
-    padding: 70px;
-    background-color: blueviolet;
-    border-radius: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    transition: 0.3s;
-  }
-  .GPU:hover{
-    transform: scale(1.05)
-  }
-  .MONITOR{
-    text-align: center;
-    margin: 20px;
-    padding: 70px;
-    background-color: blueviolet;
-    border-radius: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    transition: 0.3s;
-  }
-  .MONITOR:hover{
-    transform: scale(1.05)
-  }
-  .MOTHERBOARD{
-    text-align: center;
-    margin: 20px;
-    padding: 70px;
-    background-color: blueviolet;
-    border-radius: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    transition: 0.3s;
-  }
-  .MOTHERBOARD:hover{
-    transform: scale(1.05)
-  }
-  .RAM{
-    text-align: center;
-    margin: 20px;
-    padding: 70px;
-    background-color: blueviolet;
-    border-radius: 20px;
-    font-family: 'Times New Roman', Times, serif;
-    transition: 0.3s;
-  }
-  .RAM:hover{
-    transform: scale(1.05)
   }
   
