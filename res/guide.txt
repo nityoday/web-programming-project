@@ -18,14 +18,14 @@ This is because the GPU processes data from the CPU and renders it visually on y
 However, it can be confusing to know all the details that come with knowing when to upgrade your GPU, and selecting the right graphics card for your needs.
 
 3. MONITER
-When you think about purchasing a computer monitor, you are considering an important piece of equipment. 
-If you spend a lot of time on your computer, this means that you may spend numerous hours per day looking at this item. 
-You should, therefore, be sure to choose a computer monitor that you really like. 
-Some things you should consider are screen size, resolution, and adjustability.
-At one time, computer monitors offered limited movement but this has changed. 
-You can get a monitor that moves vertically, horizontally, and tilts. 
-If you are active while working, you may want to consider investing in a computer monitor with good adjustability. 
-This also can be a wise consideration if you share your computer with others so that everyone can place the screen in a position that is comfortable. 
+    When you think about purchasing a computer monitor, you are considering an important piece of equipment. 
+    If you spend a lot of time on your computer, this means that you may spend numerous hours per day looking at this item. 
+    You should, therefore, be sure to choose a computer monitor that you really like. 
+    Some things you should consider are screen size, resolution, and adjustability.
+    At one time, computer monitors offered limited movement but this has changed. 
+    You can get a monitor that moves vertically, horizontally, and tilts. 
+    If you are active while working, you may want to consider investing in a computer monitor with good adjustability. 
+    This also can be a wise consideration if you share your computer with others so that everyone can place the screen in a position that is comfortable. 
 
 4. Motherboard
 A motherboard is a printed circuit board (PCB) that creates a backbone that allows various components to communicate and provides services like the central processing unit (CPU), a graphics processor (GPU), memory as well as storage.
