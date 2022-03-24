@@ -8,8 +8,7 @@
   .container {
     height: 100vh;
     width: 100%;
-    /*background: url('../res/img/background_prebuilt.jpg');*/
-    background-color: rgb(20, 43, 248);
+    background: url('../res/img/form_bg.jpg');
     background-position: center;
     background-size: cover;
     background-clip: border-box;
