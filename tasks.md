@@ -77,7 +77,7 @@ Tasks [Feb/05/22]
 Adityavardhan Tiwari
 -Values add CPU,GPU 	[done]
 -Content for Prebuilt 	[done]
--New logo				[TBD]
+-New logo				[TBD] [rejected]
 
 Kurush Desai
 - Values add motherboard, ram	[done]
