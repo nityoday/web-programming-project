@@ -18,7 +18,7 @@ if ($conn-> connect_error){
         $sql = "INSERT INTO orders (name, contact, address, upi) VALUES ('$name', '$contact', '$address', '$upi')";
         
         if (mysqli_query($conn,$sql)){
-            echo "Thank you! Your order will be delivered after verification of payment";
+            echo "Thank you for ordering! We will contact you shortly.";
         }
         else{
             echo mysqli_error($conn);
