@@ -1,3 +1,31 @@
+<?php
+$servername="localhost";
+$password="";
+$username="root";
+$dbname="db_wp_semiv";
+$conn = new mysqli($servername, $username, $password, $dbname);
+if ($conn-> connect_error){
+    die("Connection failed: " . $conn->connect_error);
+    echo "Connection failed";
+    }
+    if (isset($_REQUEST['submit'])!='')
+    {
+        $name=$_POST["name"];
+        $contact=$_POST["contact"];
+        $address=$_POST["address"];
+        $upi=$_POST["upi"];
+        echo "<br>";
+        $sql = "INSERT INTO orders (name, contact, address, upi) VALUES ('$name', '$contact', '$address', '$upi')";
+        
+        if (mysqli_query($conn,$sql)){
+            echo "Thank you! Your order will be delivered after verification of payment";
+        }
+        else{
+            echo mysqli_error($conn);
+        }    
+        mysqli_close($conn);
+    }
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +48,7 @@
           </ul>
         </div>
     
-        <form action="" class="form">
+        <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" class="form" method="post">
             <div class="header">
                 <br>
                 <h3>Order your computer</h3>
@@ -29,16 +57,17 @@
             <br>
             <div class="sep"></div>
             <div class="inputs"><br>
-            <input type="text" placeholder="Name" autofocus />
+            <input type="text" placeholder="Name" autofocus name="name" />
             <br><br>
-            <input type="text" placeholder="Contact Number" />
+            <input type="text" placeholder="Contact Number" name="contact"/>
             <br><br>
-            <input type="text" placeholder="Home Address" />
+            <input type="text" placeholder="Home Address" name="address" />
             <br><br>
-            <input type="text" placeholder="UPI ID" />
+            <input type="text" placeholder="UPI ID" name="upi" />
             <br><br>
             <br>
-            <a id="submit" href="#">Order Now</a>
+            <input type="submit" name="submit">
+            <a id="submit" href="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" name="submit" >Order Now</a>
             </div>
         </form>
     </div>
