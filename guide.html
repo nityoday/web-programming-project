@@ -19,9 +19,51 @@
             <li> <a href="about_us.html">ABOUT US</a></li>
           </ul>
         </div>
-  </div>
 
-  
-
+  <figure class="main_card">
+    <div class="image"><img src="res/img/cpu.jpg" alt="Image of Computer Component" /></div>
+    <figcaption>
+      <h3>CPU</h3>
+      <p>
+        Higher clock speeds and core counts can make a major difference in performance, providing a snappier system, smoother gameplay.
+      </p>
+    </figcaption>
+  </figure>
+  <figure class="main_card">
+    <div class="image"><img src="res/img/gpu.jpg" alt="Image of Computer Component" /></div>
+    <figcaption>
+      <h3>GPU</h3>
+      <p>
+        GPU processes data from the CPU and renders it visually on display. Select a GPU based on your gaming and graphic needs. 
+      </p>
+    </figcaption>
+  </figure>
+  <figure class="main_card">
+    <div class="image"><img src="res/img/motherboard.jpg" alt="Image of Computer Component" /></div>
+    <figcaption>
+      <h3>Motherboard</h3>
+      <p>
+        It determines the upgrades you can make in the future. Motherboard offers upgrades to GPU, CPU, RAM, Storage, etc.
+      </p>
+    </figcaption>
+  </figure>
+  <figure class="main_card">
+    <div class="image"><img src="res/img/ram.jpg" alt="Image of Computer Component" /></div>
+    <figcaption>
+      <h3>RAM</h3>
+      <p>
+        DDR4 RAM isn’t backward compatible with older motherboards and CPUs, nor is DDR3 forward compatible with newer ones. 
+      </p>
+    </figcaption>
+  </figure>
+ 
+</div>
 </body>
 </html>
+<script>
+  $(".hover").mouseleave(
+  function() {
+    $(this).removeClass("hover");
+  }
+);
+</script>
