@@ -15,6 +15,9 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  h1{
+    color: aqua;
+  }
   
   .container {
     height: 100vh;
@@ -99,6 +102,7 @@
     margin: 0;
     padding: 0;
   }
+
   
   .cards_item {
     display: flex;
